@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="txt_inicio_1">Unforgotten</string>
+    <string name="txt_inicio_2">Experiences</string>
+    <string name="txt_inicio_3">Book your tour with us we hove many packages to explore the world</string>
+    <string name="txt_inicio_4">EXPLORE NOW</string>
+
+    <string name="txt_home_1">Hello Jessica</string>
+    <string name="txt_home_2">How are you feeling today?</string>
+    <string name="txt_home_3">Search</string>
+    <string name="txt_home_4">view All</string>
+
+</resources>
